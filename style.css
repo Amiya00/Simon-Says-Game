@@ -9,7 +9,7 @@ body {
     border-radius: 20%;
     border: 10px solid black;
     margin: 2.5rem;
-    box-shadow: 2px 2px 10px black;
+    box-shadow: 2px 4px 10px black;
 }
 
 .btn-container {
@@ -18,23 +18,23 @@ body {
 }
 
 .yellow {
-    background-color: #f99b45;
+    background-color: #f4c430;
 }
 
 .red {
-    background-color: #d95980;
+    background-color: #ff6f61;
 }
 
 .purple {
-    background-color: #819ff9;
+    background-color: #1e90ff;
 }
 
 .green {
-    background-color: #63aac0;
+    background-color: #2ecc71;
 }
 
 .flash {
-    background-color: white;
+    background-color: azure;
 }
 
 .userflash {
